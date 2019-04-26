@@ -1,5 +1,5 @@
 # Laikago CAD Model
-This cad models can be used by other physics engines like Pybullet[https://github.com/erwincoumans/pybullet_robots].
+This cad models can be used by other physics engines like [Pybullet](https://github.com/erwincoumans/pybullet_robots).
 
 ## STL format:
 ### Instructions:
